@@ -67,6 +67,11 @@ ___
 
 ## Challenges
 ___
+#### Data Quality:
+Ensuring the accuracy and completeness of the data presented challenges during cleaning and normalization.
+
+#### Interpretation Complexity:
+Interpreting the complex relationships between different factors affecting delays required detailed analysis.
 
 ## Future Goals
 ___

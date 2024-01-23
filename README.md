@@ -4,10 +4,10 @@
 
 
 ## Process
-Cleaning the Data
+### Cleaning the Data
 The initial step involved cleaning the data and creating appropriate tables to normalize the dataset.
 
-Normalizing the Data
+#### Normalizing the Data
 1. Table Creation:
    Six tables were created to normalize the data:
    airport_info, arrival_delay, carrier_info, flight_delay_time, flight_info, flight_details

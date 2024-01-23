@@ -3,12 +3,10 @@ ___
 
 ##### Project by: Angelo Reyes & David Oladipo 
 
-###  United States Airline Delays for December 2019 and 2020.
-
-The airline industry is a significant driver of the global economy, with an estimated market size just below 814.5 billion U.S. dollars in the United States last year. However, it faces various challenges that impact carriers, airports, and passengers alike. Flight delays, redirections, and cancellations have substantial financial repercussions and pose considerable inconveniences to travelers. The increasing demand for air travel, coupled with shortages in staff, suggests that delays may become more prevalent. The purpose of our project is to analyze trends in flight delays from 2019 to 2020, focusing on data from the United States. By examining the causes of delays, including carrier-related issues, security concerns, weather conditions, and contributions from the National Aviation System (NAS), we aim to provide insights into the challenges faced by the U.S. airline industry and propose potential solutions to mitigate the impact of delays on both operational efficiency and passenger experience.
-
+##### Dataset: United States Airline Delays for December 2019 and 2020.
 
 ## Project/Goals
+The airline industry is a significant driver of the global economy, with an estimated market size just below 814.5 billion U.S. dollars in the United States last year. However, it faces various challenges that impact carriers, airports, and passengers alike. Flight delays, redirections, and cancellations have substantial financial repercussions and pose considerable inconveniences to travelers. The increasing demand for air travel, coupled with shortages in staff, suggests that delays may become more prevalent. The purpose of our project is to analyze trends in flight delays from 2019 to 2020, focusing on data from the United States. By examining the causes of delays, including carrier-related issues, security concerns, weather conditions, and contributions from the National Aviation System (NAS), we aim to provide insights into the challenges faced by the U.S. airline industry and propose potential solutions to mitigate the impact of delays on both operational efficiency and passenger experience.
 
 
 ## Process

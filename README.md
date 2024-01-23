@@ -58,7 +58,7 @@ The initial step involved cleaning the data and creating appropriate tables to n
 After completing data cleaning, the subsequent step involves constructing models or graphs to discern patterns and reveal insights within our dataset.
 
 #### Geographical Insights:
-+ Used geospatial visualizations such as ```Symbol Map``` and ```Heat Charts``` to illustrate how the delays vary between states and cities.
++ Used geospatial visualizations such as ```Symbol Maps``` and ```Heat Charts``` to illustrate how the delays vary between states and cities.
 
 #### Statistical Overview:
 + Utilized ```Pie Charts``` for a visual breakdown of delay types.

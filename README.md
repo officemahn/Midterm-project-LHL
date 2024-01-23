@@ -62,8 +62,11 @@ ___
 
 ## Future Goals
 ___
-#### Predictive Modeling:
-Implement predictive modeling to forecast potential delays and take proactive measures.
+#### Build Regression Model:
+- Develop a regression model to predict flight delays based on historical data and relevant features.
+- Explore the impact of different variables such as weather conditions, carrier type, and time of day on delays.
+- Fine-tune the model to improve accuracy and reliability.
+- Forecast potential delays and take proactive measures.
 
 #### Continuous Monitoring:
 Establish a system for continuous monitoring of delay trends and performance metrics.

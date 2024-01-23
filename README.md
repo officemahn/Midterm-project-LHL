@@ -55,6 +55,14 @@ The initial step involved cleaning the data and creating appropriate tables to n
 
 ## Results
 ___
+#### Overall Trend Analysis:
+There were significant reduction in delays in December 2020 compared to December 2019 which indicates that certain factors or improvements in the airline industry may have positively impacted on-time performance.
+#### Airline Performance:
+- Allegiant Air and Frontier Airlines show relatively lower average delays which suggest that these carriers have more efficient operational processes or better strategies for managing delays while major carriers like American Airlines and JetBlue Airways experience substantially higher average delays.
+#### Delay Causes:
+- The result indicated that late aircraft caused the most delay in air flights.
+- Late Aircraft delays being the most frequent indicates that issues related to the arrival or departure of aircraft from previous flights significantly contribute to delays.
+- Carrier delays and National Aviation System delays also play substantial roles, emphasizing the need to address both airline-specific and broader aviation system issues.
 
 
 ## Challenges

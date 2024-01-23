@@ -10,6 +10,19 @@ ___
 
 The airline industry is a significant driver of the global economy, with an estimated market size just below 814.5 billion U.S. dollars in the United States last year. However, it faces various challenges that impact carriers, airports, and passengers alike. Flight delays, redirections, and cancellations have substantial financial repercussions and pose considerable inconveniences to travelers. The increasing demand for air travel, coupled with shortages in staff, suggests that delays may become more prevalent. The purpose of our project is to analyze trends in flight delays from 2019 to 2020, focusing on data from the United States. By examining the causes of delays, including carrier-related issues, security concerns, weather conditions, and contributions from the National Aviation System (NAS), we aim to provide insights into the challenges faced by the U.S. airline industry and propose potential solutions to mitigate the impact of delays on both operational efficiency and passenger experience.
 
+**Overall Trend Analysis:** Identify patterns and shifts in flight delays for 2019 and 2020.
+
+**Airline Performance Assessment:** Evaluate individual airline punctuality and identify areas for improvement.
+
+**Identification of Delay Causes:** Categorize delays by carrier issues, security concerns, weather, and NAS disruptions.
+
+**Time-based Causes Analysis:** Uncover temporal patterns in delays to optimize scheduling and resource allocation.
+
+**City-wise Delay Visualization:** Highlight geographical patterns of delays across different cities.
+
+**Carrier vs. Airport Impact Analysis**: Assess the relationship between specific carriers and airports in contributing to delays.
+
+The project aims to provide insights into U.S. airline industry challenges, guiding targeted solutions for operational efficiency and enhancing passenger experience. While direct intervention to prevent delays may not be possible, the analysis of delay data offers a wealth of information that can be leveraged for strategic decision-making, risk mitigation, and overall improvement in the efficiency and effectiveness of airline operations.
 
 ## Process
 ___

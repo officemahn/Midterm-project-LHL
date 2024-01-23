@@ -109,8 +109,10 @@ Where
 	security_delay = 'NA' or 
 	late_aircraft_delay = 'NA' 
 );
+```
 
-
+**Cleaning the Data**
+```SQL
 -- Update data in the existing Airport_info table
 UPDATE Airport_info
 SET

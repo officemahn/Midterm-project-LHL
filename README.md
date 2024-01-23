@@ -27,7 +27,7 @@ The project aims to provide insights into U.S. airline industry challenges, guid
 ## Process
 ___
 
-### Cleaning the Data
+### A. Cleaning the Data
 The initial step involved cleaning the data and creating appropriate tables to normalize the dataset.
 
 #### Normalizing the Data
@@ -52,6 +52,23 @@ The initial step involved cleaning the data and creating appropriate tables to n
 2. Conducted tests to validate data consistency and accuracy.
    
 3. Implemented checks for null values to maintain data integrity.
+
+### B. Visualization Process
+
+After completing data cleaning, the subsequent step involves constructing models or graphs to discern patterns and reveal insights within our dataset.
+
+#### Geographic Insights:
++ Used geospatial visualizations such as ```Symbol Map``` and ```Heat Charts``` to illustrate how the delays vary between states and cities.
+
+#### Statistical Overview:
++ Utilized ```Pie Charts``` for a visual breakdown of delay types.
++ Used ```Bar Graphs``` to contrasts between two variables.
++ Incorporated ```Text Based``` visualizations in order to have better understanding of numbers.
+
+#### Trend and Frequency Analysis:
++ Employed a ```Line Graph``` to verify alarming trends between years.
+
+  
 
 ## Results
 ___

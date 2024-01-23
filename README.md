@@ -57,7 +57,7 @@ The initial step involved cleaning the data and creating appropriate tables to n
 
 After completing data cleaning, the subsequent step involves constructing models or graphs to discern patterns and reveal insights within our dataset.
 
-#### Geographic Insights:
+#### Geographical Insights:
 + Used geospatial visualizations such as ```Symbol Map``` and ```Heat Charts``` to illustrate how the delays vary between states and cities.
 
 #### Statistical Overview:
@@ -67,6 +67,10 @@ After completing data cleaning, the subsequent step involves constructing models
 
 #### Trend and Frequency Analysis:
 + Employed a ```Line Graph``` to verify alarming trends between years.
+
+### C. Dashboard Building
+
+The final step involves crafting ```Tableau``` dashboards, converting individual graphs or charts into cohesive, interactive displays that are interrelated, enhancing the ability to communicate a compelling narrative for the audience.
 
   
 
